@@ -1,5 +1,5 @@
 # SCA_TRACESET列表
-目前錄製狀態如下，持續更新中，因檔案size都很大如需要請來信索取
+目前錄製狀態如下，持續更新中，因檔案size都很大如需要請來信(chihweichen@iii.org.tw)索取
 ![image](https://github.com/jianwei76/SCA_TRACESET/blob/main/TraceSet%E7%8B%80%E6%85%8B.png)
 
 # SCA_TRACESET格式
